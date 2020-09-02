@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactvrijeme/static/css/main.78990f26.chunk.css",
-    "main.js": "/reactvrijeme/static/js/main.2735d843.chunk.js",
-    "main.js.map": "/reactvrijeme/static/js/main.2735d843.chunk.js.map",
+    "main.js": "/reactvrijeme/static/js/main.65edcd1d.chunk.js",
+    "main.js.map": "/reactvrijeme/static/js/main.65edcd1d.chunk.js.map",
     "runtime-main.js": "/reactvrijeme/static/js/runtime-main.cf86d46c.js",
     "runtime-main.js.map": "/reactvrijeme/static/js/runtime-main.cf86d46c.js.map",
     "static/css/2.b00e2ba6.chunk.css": "/reactvrijeme/static/css/2.b00e2ba6.chunk.css",
     "static/js/2.00a81fdf.chunk.js": "/reactvrijeme/static/js/2.00a81fdf.chunk.js",
     "static/js/2.00a81fdf.chunk.js.map": "/reactvrijeme/static/js/2.00a81fdf.chunk.js.map",
     "index.html": "/reactvrijeme/index.html",
-    "precache-manifest.265c93d2da25d852cc701d33796ad292.js": "/reactvrijeme/precache-manifest.265c93d2da25d852cc701d33796ad292.js",
+    "precache-manifest.311078a92482ef07f9800397b8a75609.js": "/reactvrijeme/precache-manifest.311078a92482ef07f9800397b8a75609.js",
     "service-worker.js": "/reactvrijeme/service-worker.js",
     "static/css/2.b00e2ba6.chunk.css.map": "/reactvrijeme/static/css/2.b00e2ba6.chunk.css.map",
     "static/css/main.78990f26.chunk.css.map": "/reactvrijeme/static/css/main.78990f26.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.b00e2ba6.chunk.css",
     "static/js/2.00a81fdf.chunk.js",
     "static/css/main.78990f26.chunk.css",
-    "static/js/main.2735d843.chunk.js"
+    "static/js/main.65edcd1d.chunk.js"
   ]
 }
