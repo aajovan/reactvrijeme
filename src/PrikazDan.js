@@ -6,9 +6,9 @@ function PrikazDan ({dan}) {
         prikaz.push(
         <div key={index} className="rounded text-center p-4 my-1 my-md-0 mx-1 bg-dark d-flex flex-row flex-md-column justify-content-center">
             <h5 className="pt-3 px-2 px-md-0 pt-md-2 text-white">{obj.sat}h</h5>
-            <img className="pt-2 ikona pt-md-2 px-2 px-md-3" alt="vrijeme" src={"https://meteo.hr/assets/images/icons/"+obj.simbol+".svg"} />
+            <img className="pt-3 ikona pt-md-2 px-2 px-md-3" alt="vrijeme" src={"https://meteo.hr/assets/images/icons/"+obj.simbol+".svg"} />
             <h5 className="pt-3 pt-md-2 px-2 px-md-0 text-white">{obj.t2_m} °C</h5>
-            <img className="pt-2 ikona pt-md-2 px-2 px-md-3" alt="vjetar" src={"https://meteo.hr/assets/images/icons/"+obj.vjetar+".svg"} />
+            <img className="pt-3 ikona pt-md-2 px-2 px-md-3" alt="vjetar" src={"https://meteo.hr/assets/images/icons/"+obj.vjetar+".svg"} />
         </div>)
     });
     return (
