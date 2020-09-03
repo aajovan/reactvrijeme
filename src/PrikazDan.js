@@ -8,7 +8,7 @@ function PrikazDan ({dan}) {
             <h5 className="text-white text-center px-1">{obj.sat}h</h5>
             <img className="ikona text-center px-1 pb-1" alt="vrijeme" src={"https://meteo.hr/assets/images/icons/"+obj.simbol+".svg"} />
             <h5 className=" text-white text-center px-1">{obj.t2_m} °C</h5>
-            <img className="ikona text-center px-1 pb-1" alt="vjetar" src={"https://meteo.hr/assets/images/icons/"+obj.vjetar+".svg"} />
+            <img className="ikona text-center px-1" alt="vjetar" src={"https://meteo.hr/assets/images/icons/"+obj.vjetar+".svg"} />
         </div>)
     });
     return (
