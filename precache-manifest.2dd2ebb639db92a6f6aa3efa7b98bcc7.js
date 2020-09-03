@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65d11d1d17504a7ace1083cd82881533",
+    "revision": "e7369ef0b64d5a7fffbbe954f69cd126",
     "url": "/reactvrijeme/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactvrijeme/static/css/2.b00e2ba6.chunk.css"
   },
   {
-    "revision": "88aa05e0293637b3e5bc",
+    "revision": "01a9be63efb7a28b82dd",
     "url": "/reactvrijeme/static/css/main.3112b27e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactvrijeme/static/js/2.00a81fdf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "88aa05e0293637b3e5bc",
-    "url": "/reactvrijeme/static/js/main.05d69438.chunk.js"
+    "revision": "01a9be63efb7a28b82dd",
+    "url": "/reactvrijeme/static/js/main.812ff2cf.chunk.js"
   },
   {
     "revision": "a1288298e320b04d3837",
